@@ -2,7 +2,7 @@
 
 **DOCUMENTAÇÃO**
 
-Utilizar o conceito de GRAFO para fazer o projeto. Deve criar uma aplicação em java utilizando a Estruturação de Dados Grafo.
+Utilizar o conceito de GRAFO para fazer o projeto. Deve ser criado uma aplicação em Java utilizando a Estruturação de Dados em Grafos.
 Definição do sistema: Escolher local destino para viajar.
 
 - Cada estãção fica com 3m de tempo.
